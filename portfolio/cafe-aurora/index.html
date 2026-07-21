@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <meta
+        name="description"
+        content="Café Aurora, una demostración de sitio web creada por Novarex Technologies."
+    >
+
+    <title>Café Aurora | Café artesanal</title>
+
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="container header__content">
+            <a class="brand" href="#inicio">
+                <span class="brand__icon">A</span>
+
+                <span>
+                    Café Aurora
+                    <small>Café artesanal</small>
+                </span>
+            </a>
+
+            <button
+                class="menu-button"
+                id="menu-button"
+                type="button"
+                aria-label="Abrir menú"
+                aria-expanded="false"
+            >
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+
+            <nav
+                class="navigation"
+                id="navigation"
+                aria-label="Navegación principal"
+            >
+                <a href="#inicio">Inicio</a>
+                <a href="#menu">Menú</a>
+                <a href="#nosotros">Nosotros</a>
+                <a href="#galeria">Galería</a>
+                <a href="#visitanos">Visítanos</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero" id="inicio">
+            <div class="hero__overlay"></div>
+
+            <div class="container hero__content">
+                <p class="eyebrow">CAFÉ ARTESANAL · CDMX</p>
+
+                <h1>
+                    Una pausa cálida en medio de la ciudad
+                </h1>
+
+                <p class="hero__description">
+                    Café seleccionado, pan recién horneado y un espacio
+                    diseñado para disfrutar cada momento.
+                </p>
+
+                <div class="hero__actions">
+                    <a class="button button--primary" href="#menu">
+                        Ver menú
+                    </a>
+
+                    <a
+                        class="button button--outline"
+                        href="https://wa.me/525500000000?text=Hola%2C%20quiero%20hacer%20una%20reservaci%C3%B3n%20en%20Caf%C3%A9%20Aurora."
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Reservar por WhatsApp
+                    </a>
+                </div>
+            </div>
+
+            <a class="hero__scroll" href="#menu">
+                Descubre más
+                <span>↓</span>
+            </a>
+        </section>
+
+        <section class="section intro">
+            <div class="container intro__grid">
+                <div>
+                    <p class="section-label">NUESTRA ESENCIA</p>
+
+                    <h2>
+                        Café preparado con cuidado, desde el origen hasta tu taza
+                    </h2>
+                </div>
+
+                <div class="intro__text">
+                    <p>
+                        Seleccionamos granos de productores mexicanos y los
+                        preparamos para resaltar su aroma, textura y sabor.
+                    </p>
+
+                    <p>
+                        Cada bebida se acompaña de una experiencia tranquila,
+                        cercana y auténtica.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section class="section menu-section" id="menu">
+            <div class="container">
+                <div class="section-heading">
+                    <div>
+                        <p class="section-label">NUESTRO MENÚ</p>
+
+                        <h2>Favoritos de la casa</h2>
+                    </div>
+
+                    <p>
+                        Una selección preparada con ingredientes frescos y
+                        sabores cuidadosamente equilibrados.
+                    </p>
+                </div>
+
+                <div class="menu-grid">
+                    <article class="menu-card">
+                        <div class="menu-card__image menu-card__image--latte">
+                            <span>Más pedido</span>
+                        </div>
+
+                        <div class="menu-card__content">
+                            <div class="menu-card__title">
+                                <h3>Latte Aurora</h3>
+                                <strong>$68</strong>
+                            </div>
+
+                            <p>
+                                Espresso, leche cremosa, vainilla natural y un
+                                toque ligero de canela.
+                            </p>
+                        </div>
+                    </article>
+
+                    <article class="menu-card">
+                        <div class="menu-card__image menu-card__image--cold"></div>
+
+                        <div class="menu-card__content">
+                            <div class="menu-card__title">
+                                <h3>Cold Brew</h3>
+                                <strong>$72</strong>
+                            </div>
+
+                            <p>
+                                Café extraído lentamente durante 18 horas,
+                                servido frío y con notas de chocolate.
+                            </p>
+                        </div>
+                    </article>
+
+                    <article class="menu-card">
+                        <div class="menu-card__image menu-card__image--toast"></div>
+
+                        <div class="menu-card__content">
+                            <div class="menu-card__title">
+                                <h3>Toast de la casa</h3>
+                                <strong>$115</strong>
+                            </div>
+
+                            <p>
+                                Pan artesanal, aguacate, queso de cabra,
+                                jitomate y semillas tostadas.
+                            </p>
+                        </div>
+                    </article>
+
+                    <article class="menu-card">
+                        <div class="menu-card__image menu-card__image--bread"></div>
+
+                        <div class="menu-card__content">
+                            <div class="menu-card__title">
+                                <h3>Rol de canela</h3>
+                                <strong>$55</strong>
+                            </div>
+
+                            <p>
+                                Horneado diariamente, con especias, mantequilla
+                                y glaseado ligero.
+                            </p>
+                        </div>
+                    </article>
+                </div>
+
+                <div class="menu-section__action">
+                    <a class="text-link" href="#visitanos">
+                        Consulta disponibilidad y horarios
+                        <span>→</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section class="section story" id="nosotros">
+            <div class="container story__grid">
+                <div class="story__image">
+                    <div class="story__badge">
+                        <strong>Desde 2021</strong>
+                        <span>Hecho en México</span>
+                    </div>
+                </div>
+
+                <div class="story__content">
+                    <p class="section-label">NUESTRA HISTORIA</p>
+
+                    <h2>
+                        Un lugar creado para conversar, trabajar y disfrutar
+                    </h2>
+
+                    <p>
+                        Café Aurora nació con la idea de crear un espacio
+                        sencillo y acogedor donde cada persona pudiera hacer
+                        una pausa.
+                    </p>
+
+                    <p>
+                        Trabajamos con proveedores locales, procesos
+                        responsables y recetas que respetan el sabor de cada
+                        ingrediente.
+                    </p>
+
+                    <div class="story__stats">
+                        <div>
+                            <strong>100%</strong>
+                            <span>Café mexicano</span>
+                        </div>
+
+                        <div>
+                            <strong>7 días</strong>
+                            <span>Abiertos por semana</span>
+                        </div>
+
+                        <div>
+                            <strong>4.8</strong>
+                            <span>Valoración promedio</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section gallery-section" id="galeria">
+            <div class="container">
+                <div class="section-heading">
+                    <div>
+                        <p class="section-label">GALERÍA</p>
+                        <h2>Momentos en Café Aurora</h2>
+                    </div>
+
+                    <p>
+                        Un ambiente cálido para comenzar el día, reunirte o
+                        simplemente disfrutar una buena taza de café.
+                    </p>
+                </div>
+
+                <div class="gallery">
+                    <div class="gallery__item gallery__item--large gallery__item--one"></div>
+                    <div class="gallery__item gallery__item--two"></div>
+                    <div class="gallery__item gallery__item--three"></div>
+                    <div class="gallery__item gallery__item--wide gallery__item--four"></div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section visit" id="visitanos">
+            <div class="container visit__card">
+                <div class="visit__content">
+                    <p class="section-label">VISÍTANOS</p>
+
+                    <h2>Tu próxima taza te espera</h2>
+
+                    <div class="visit__information">
+                        <div>
+                            <span>Dirección</span>
+                            <p>
+                                Av. Ejemplo 125, Col. Centro<br>
+                                Ciudad de México
+                            </p>
+                        </div>
+
+                        <div>
+                            <span>Horarios</span>
+                            <p>
+                                Lunes a viernes: 7:00–21:00<br>
+                                Sábado y domingo: 8:00–22:00
+                            </p>
+                        </div>
+
+                        <div>
+                            <span>Contacto</span>
+                            <p>
+                                hola@cafeaurora.mx<br>
+                                +52 55 0000 0000
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="visit__actions">
+                        <a
+                            class="button button--primary"
+                            href="https://maps.google.com"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            Cómo llegar
+                        </a>
+
+                        <a
+                            class="button button--dark"
+                            href="https://wa.me/525500000000"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            Enviar WhatsApp
+                        </a>
+                    </div>
+                </div>
+
+                <div class="visit__visual">
+                    <span>Café Aurora</span>
+                    <small>Ciudad de México</small>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container footer__content">
+            <div>
+                <strong>Café Aurora</strong>
+                <p>Una demostración creada por Novarex Technologies.</p>
+            </div>
+
+            <a href="../../index.html">
+                Volver a Novarex Technologies
+            </a>
+
+            <p>
+                © <span id="current-year"></span> Café Aurora
+            </p>
+        </div>
+    </footer>
+
+    <script src="./assets/js/script.js"></script>
+</body>
+</html>
