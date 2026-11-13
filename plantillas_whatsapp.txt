@@ -1,0 +1,98 @@
+# PLANTILLAS WHATSAPP / INSTAGRAM / EMAIL — COPY-PASTE LISTO
+# ============================================================
+# Tu WhatsApp: https://wa.me/525512161904
+# Tu Email: novarextechnologies@gmail.com
+# ============================================================
+
+## 📱 PLANTILLA 1 — WHATSAPP CAFÉS (Frío, directo, alto conversion)
+---
+Hola [NOMBRE], vi [NOMBRE CAFÉ] en Maps y me encantó su rating de [X]/5 ⭐
+
+Les armé una **demo GRATIS** de cómo se vería su web con:
+✅ Menú digital con precios (se ve perfecto en móvil)
+✅ Reserva por WhatsApp en 1 click
+✅ Galería + ubicación + horarios
+✅ SEO local para que salgan primero en "café cerca de mí"
+
+¿Les mando el link? Tarda 3 seg en abrir en su celular 👇
+
+[LINK DEMO PERSONALIZADA]
+
+Sin compromiso — solo quiero que lo vean. Si les gusta, hablamos.
+---
+
+## 📱 PLANTILLA 2 — WHATSAPP BARBERÍAS (Frío, directo, alto conversion)
+---
+Hola [NOMBRE], vi [NOMBRE BARBERÍA] en Maps — [X] reseñas y [X]/5 ⭐, ¡bien hecho!
+
+Les preparé una **demo GRATIS** de su web con:
+✅ 6 servicios con precios + "Reservar por WhatsApp" cada uno
+✅ Equipo/barberos con fotos y especialidad
+✅ Testimonios reales (ya maquetados)
+✅ Galería de cortes + ubicación + horarios
+✅ SEO local para "barbería cerca de mí"
+
+¿Les paso el link? Se abre directo en el celular 👇
+
+[LINK DEMO PERSONALIZADA]
+
+Cero presión — solo que lo vean. Si encaja, vemos.
+---
+
+## 📱 PLANTILLA 3 — INSTAGRAM DM (Más visual, menos invasivo)
+---
+Hola! 👋 Vi su perfil y me gustó su estilo.
+
+Les hice una **demo GRATIS** de web para [NOMBRE] — menú/servicios, reserva WhatsApp, galería, todo listo para ver en el cel.
+
+¿Les mando el link? Tardan 10 seg en verlo y me dicen 🙌
+---
+
+## 📱 PLANTILLA 4 — FOLLOW-UP (A las 24h si no responden)
+---
+Hola [NOMBRE], sé que andan ocupados ☕
+
+El link de la demo sigue activo: [LINK]
+
+Si en 2 min no les convence, lo borro y listo. Si les gusta, vemos cómo la ponemos en vivo esta semana.
+
+Saludos!
+---
+
+## 📧 PLANTILLA 5 — EMAIL (Para los que tienen email público)
+---
+Asunto: Demo gratis: web para [NOMBRE] con reserva WhatsApp
+
+Hola [NOMBRE],
+
+Vi [NOMBRE NEGOCIO] en Google Maps y me llamó la atención su rating de [X]/5 con [X] reseñas.
+
+Les preparé una demostración gratuita de cómo se vería su página web, adaptada exactamente a su negocio:
+
+🔗 Ver demo aquí: [LINK DEMO PERSONALIZADA]
+
+Incluye:
+• Menú/servicios con precios en MXN
+• Botón "Reservar por WhatsApp" en cada sección
+• Galería, ubicación, horarios, contacto
+• Optimizada para móvil y SEO local
+
+Tarda 10 segundos en verla en su celular. Si les gusta, la ponemos en vivo esta semana por $4,970 MXN (incluye dominio .com.mx 1 año + hosting + 3 cambios).
+
+Sin compromiso — solo quería que la vieran.
+
+Saludos,
+Eduardo — Novarex Technologies
+WhatsApp: https://wa.me/525512161904
+---
+
+## 🔗 CÓMO USAR LOS LINKS DE DEMO
+---
+Para cada lead en leads.csv, su demo está en:
+https://eduardog0402.github.io/novarex-website/demo-{slug}/
+
+Ejemplo: si slug = "cafe-central"
+→ https://eduardog0402.github.io/novarex-website/demo-cafe-central/
+
+Solo reemplaza [LINK DEMO PERSONALIZADA] por el link real de cada prospecto.
+---
